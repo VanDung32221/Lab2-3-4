@@ -1,0 +1,21 @@
+{
+  "name": "demo4",
+  "version": "1.0.0",
+  "description": "ghi gi cung duoc",
+  "main": "índex.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "ghi",
+    "gi",
+    "cung",
+    "duoc"
+  ],
+  "author": "Van Dung",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.0"
+  }
+}
